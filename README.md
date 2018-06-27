@@ -13,7 +13,7 @@ Note: You only need to do this once.
 
 1. In a Python Session:
 ```Python
-! pip install --upgrade dask keras matplotlib pandas_highcharts protobuf tensorflow seaborn
+! pip install --upgrade dask keras matplotlib pandas_highcharts protobuf tensorflow seaborn numpy
 ```
 Note, you must then stop the workbench and restart it in order for all the packages to be seen.
 
